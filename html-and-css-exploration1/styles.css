@@ -1,0 +1,17 @@
+.my-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 100px;
+}
+body{
+background-color: red ;
+}
+.has-blue-background {
+  background-color: #A7DDFF;
+  border: 1px solid #721EE3;
+}
+
+.has-yellow-background {
+  background-color: #FAF7A7;
+  border: 1px solid #E38C1E;
+}
